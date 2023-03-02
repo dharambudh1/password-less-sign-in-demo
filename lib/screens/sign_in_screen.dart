@@ -59,7 +59,7 @@ class _SignInScreenState extends State<SignInScreen>
               ),
             ),
             button(),
-            const Spacer(flex: 4),
+            const Spacer(flex: 2),
           ],
         ),
       ),
