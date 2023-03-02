@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return KeyboardDismisser(
       child: GetMaterialApp(
-        title: "Flutter Demo",
+        title: "Passwordless Sign-in Demo",
         theme: themeData(Brightness.light),
         darkTheme: themeData(Brightness.dark),
         supportedLocales: const <Locale>[Locale("en")],
