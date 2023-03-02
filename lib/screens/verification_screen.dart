@@ -100,7 +100,7 @@ class _VerificationScreenState extends State<VerificationScreen>
               },
               child: const Text("Verify"),
             ),
-            const Spacer(flex: 4),
+            const Spacer(flex: 2),
           ],
         ),
       ),
