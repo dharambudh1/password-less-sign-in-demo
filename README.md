@@ -15,7 +15,7 @@
 
 ## Important:
 - To perform Password-less Sign-in, replace my account's SID & auth token with your account's SID & auth token. You can find the highlighted code at: https://github.com/dharambudh1/passwordless-sign-in-demo/blob/main/lib/service/network_service.dart#L13-L14
-- You can read Twilio's free trial limitations from here: https://support.twilio.com/hc/en-us/articles/360036052753-Twilio-Free-Trial-Limitations
+- You can read Twilio's free trial limitations here: https://support.twilio.com/hc/en-us/articles/360036052753-Twilio-Free-Trial-Limitations
 
 ## Useful links:
 - Twilio: https://www.twilio.com/
