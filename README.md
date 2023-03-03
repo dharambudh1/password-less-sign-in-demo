@@ -12,7 +12,7 @@
   - Verify the phone number via a Bot call
 
 - Methods for performing Password-less Sign-in using your email address:
-  - Verify the email address via an email (can send from the organization's email)
+  - Verify the email address via an email (can send email from the organization's email)
 
 ## Important:
 - To perform Password-less Sign-in, replace my account's SID & auth token with your account's SID & auth token. You can find the highlighted code at: https://github.com/dharambudh1/passwordless-sign-in-demo/blob/main/lib/service/network_service.dart#L13-L14
